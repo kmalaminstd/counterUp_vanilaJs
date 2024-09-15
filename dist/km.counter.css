@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.km-counter{
+    padding: 0 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.km-counter .km-counter-box{
+    text-align: center;
+}
